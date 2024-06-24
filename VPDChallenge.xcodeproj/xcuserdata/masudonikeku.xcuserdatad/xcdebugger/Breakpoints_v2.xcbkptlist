@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "162BFE3F-6E60-4383-ACAA-514B7DE6C5EA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C74430F7-CC0D-468C-BEF6-B69004322962"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VPDChallenge/MVVM/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "bind()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C74430F7-CC0D-468C-BEF6-B69004322962 - 76eb6110670c22a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.HomeVC.bind() -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "520">
+               </Location>
+               <Location
+                  uuid = "C74430F7-CC0D-468C-BEF6-B69004322962 - 76eb6110670c22a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.HomeVC.bind() -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "543">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9E4DF07-6FD4-48B6-A089-5EC91244A51A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VPDChallenge/MVVM/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "bind()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D9E4DF07-6FD4-48B6-A089-5EC91244A51A - 76eb6110670c21f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.HomeVC.bind() -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1152">
+               </Location>
+               <Location
+                  uuid = "D9E4DF07-6FD4-48B6-A089-5EC91244A51A - 76eb6110670c2116"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.HomeVC.bind() -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1415">
+               </Location>
+               <Location
+                  uuid = "D9E4DF07-6FD4-48B6-A089-5EC91244A51A - 76eb6110670c209a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.HomeVC.bind() -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "2078">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4C23099-564E-49AE-91A9-88694957F3F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VPDChallenge/MVVM/View Models/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "updateData(page:repos:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDC4CD1C-3EDD-4FAA-90E7-AC7AEC9ED3AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VPDChallenge/MVVM/View Models/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "updateData(page:repos:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EDC4CD1C-3EDD-4FAA-90E7-AC7AEC9ED3AF - 3c2da26962c94058"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.CoreDataManager.updateData(page: Swift.String, repos: Swift.Array&lt;VPDChallenge.APIRepo&gt;) -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/View%20Models/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "2300">
+               </Location>
+               <Location
+                  uuid = "EDC4CD1C-3EDD-4FAA-90E7-AC7AEC9ED3AF - 3c2da26962c94058"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.CoreDataManager.updateData(page: Swift.String, repos: Swift.Array&lt;VPDChallenge.APIRepo&gt;) -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/View%20Models/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "2176">
+               </Location>
+               <Location
+                  uuid = "EDC4CD1C-3EDD-4FAA-90E7-AC7AEC9ED3AF - 3c2da26962c94058"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.CoreDataManager.updateData(page: Swift.String, repos: Swift.Array&lt;VPDChallenge.APIRepo&gt;) -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/View%20Models/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "2199">
+               </Location>
+               <Location
+                  uuid = "EDC4CD1C-3EDD-4FAA-90E7-AC7AEC9ED3AF - 3c2da26962c9407b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.CoreDataManager.updateData(page: Swift.String, repos: Swift.Array&lt;VPDChallenge.APIRepo&gt;) -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/View%20Models/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "2481">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5FF1B41-0136-4D59-96EE-52DDFE16F200"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VPDChallenge/MVVM/View Models/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "updateData(page:repos:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9075DBE9-C56F-4644-BA5B-23730DC0338C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VPDChallenge/MVVM/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "tableView(_:willDisplay:forRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9075DBE9-C56F-4644-BA5B-23730DC0338C - a80e4cd233747ab3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.HomeVC.tableView(_: __C.UITableView, willDisplay: __C.UITableViewCell, forRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "1249">
+               </Location>
+               <Location
+                  uuid = "9075DBE9-C56F-4644-BA5B-23730DC0338C - a80e4cd233747ad0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.HomeVC.tableView(_: __C.UITableView, willDisplay: __C.UITableViewCell, forRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "1133">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBC119F2-BFF9-4E7F-8A5E-E3E94F7FDC1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VPDChallenge/MVVM/View Models/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "updateData(page:repos:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CBC119F2-BFF9-4E7F-8A5E-E3E94F7FDC1E - 3c2da26962c9407b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.CoreDataManager.updateData(page: Swift.String, repos: Swift.Array&lt;VPDChallenge.APIRepo&gt;) -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/View%20Models/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "2218">
+               </Location>
+               <Location
+                  uuid = "CBC119F2-BFF9-4E7F-8A5E-E3E94F7FDC1E - 3c2da26962c9407b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.CoreDataManager.updateData(page: Swift.String, repos: Swift.Array&lt;VPDChallenge.APIRepo&gt;) -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/View%20Models/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "1997">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86832632-C3D2-48B0-A0D8-35C90CC27DA7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VPDChallenge/MVVM/View Models/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "updateData(page:repos:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "86832632-C3D2-48B0-A0D8-35C90CC27DA7 - 3c2da26962c94792"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.CoreDataManager.updateData(page: Swift.String, repos: Swift.Array&lt;VPDChallenge.APIRepo&gt;) -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/View%20Models/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "3705">
+               </Location>
+               <Location
+                  uuid = "86832632-C3D2-48B0-A0D8-35C90CC27DA7 - 3c2da26962c94792"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.CoreDataManager.updateData(page: Swift.String, repos: Swift.Array&lt;VPDChallenge.APIRepo&gt;) -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/View%20Models/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "3013">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17F05567-6EC3-4973-BA28-91793263F0F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VPDChallenge/MVVM/View Models/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "createData(data:page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "17F05567-6EC3-4973-BA28-91793263F0F5 - 645ff477cc522816"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.CoreDataManager.createData(data: Swift.Array&lt;VPDChallenge.APIRepo&gt;, page: Swift.String) -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/View%20Models/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1096">
+               </Location>
+               <Location
+                  uuid = "17F05567-6EC3-4973-BA28-91793263F0F5 - 645ff477cc522816"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.CoreDataManager.createData(data: Swift.Array&lt;VPDChallenge.APIRepo&gt;, page: Swift.String) -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/View%20Models/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4EB092E-56E1-421A-BD9E-010B6317B8B0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VPDChallenge/MVVM/View Models/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "updateData(page:repos:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B4EB092E-56E1-421A-BD9E-010B6317B8B0 - 3c2da26962c940bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.CoreDataManager.updateData(page: Swift.String, repos: Swift.Array&lt;VPDChallenge.APIRepo&gt;) -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/View%20Models/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "2303">
+               </Location>
+               <Location
+                  uuid = "B4EB092E-56E1-421A-BD9E-010B6317B8B0 - 3c2da26962c940dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VPDChallenge.CoreDataManager.updateData(page: Swift.String, repos: Swift.Array&lt;VPDChallenge.APIRepo&gt;) -&gt; ()"
+                  moduleName = "VPDChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masudonikeku/Documents/iOS%20APPS/VPDChallenge/VPDChallenge/MVVM/View%20Models/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "2527">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53C76F7B-EC73-4963-B0EF-5F1DC28CE58D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VPDChallenge/MVVM/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "bind()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
