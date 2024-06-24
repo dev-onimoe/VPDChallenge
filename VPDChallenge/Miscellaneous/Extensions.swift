@@ -173,3 +173,13 @@ extension UIColor {
         self.init(red:red, green:green, blue:blue, alpha:alpha)
     }
 }
+
+extension UIViewController {
+    
+    func showAlert(msg: String) {
+        
+        let alert = UIAlertController(title: "Message", message: msg, preferredStyle: .alert)
+        alert.addAction(UIAlertAction(title: "Okay", style: .default))
+        self.present(alert, animated: true)
+    }
+}

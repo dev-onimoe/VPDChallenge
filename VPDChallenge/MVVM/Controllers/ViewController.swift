@@ -55,6 +55,10 @@ class HomeVC: UIViewController {
                         }
                         self?.viewModel.updateCoreData(repos: self!.repos, page: String(self!.viewModel.page))
                     }
+                }else {
+                    DispatchQueue.main.async {
+                        self?.showAlert(msg: res.message ?? "There was an error, please try again")
+                    }
                 }
             }
         })

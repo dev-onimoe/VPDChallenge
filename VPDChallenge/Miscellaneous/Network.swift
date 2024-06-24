@@ -43,6 +43,7 @@ class Network {
                         
                     }else {
                         print("did not decode")
+                        completion(nil, "There was a problem getting data, please try again")
                     }
                    
                     
