@@ -14,6 +14,7 @@ class HomeVC: UIViewController {
     
     let viewModel = ViewModel()
     var repos : [APIRepo] = []
+    let rctrl = UIRefreshControl()
     //var currentPage = 1
 
     override func viewDidLoad() {
@@ -21,6 +22,10 @@ class HomeVC: UIViewController {
         // Do any additional setup after loading the view.
         title = "Repositories"
         self.tableView.delegate = self
+        self.tableView.refreshControl = rctrl
+        rctrl.attributedTitle = NSAttributedString(string: "Pull down to refresh")
+        self.rctrl.addTarget(self, action: #selector(refreshList), for: .valueChanged)
+        self.tableView.refreshControl?.addTarget(self, action: #selector(refreshList), for: .valueChanged)
         self.tableView.dataSource = self
         self.tableView.showsVerticalScrollIndicator = false
         bind()
@@ -29,14 +34,22 @@ class HomeVC: UIViewController {
     func bind() {
         
         viewModel.responseObserver.bind(completion: {[weak self] response in
-            
+            DispatchQueue.main.async {
+                if self!.rctrl.isRefreshing {
+                    self!.rctrl.endRefreshing()
+                }
+            }
             if let res = response {
                 
                 if res.successful {
                     
                     let reps = res.object as? [APIRepo]
                     if let reps = reps {
-                        self?.repos.append(contentsOf: reps)
+                        if self!.viewModel.page != 1 {
+                            self?.repos.append(contentsOf: reps)
+                        }else {
+                            self!.repos = reps
+                        }
                         DispatchQueue.main.async {
                             self?.tableView.reloadData()
                         }
@@ -64,6 +77,12 @@ class HomeVC: UIViewController {
         }else {
             viewModel.getData(page: viewModel.page)
         }
+    }
+    
+    @objc func refreshList() {
+        //rctrl.beginRefreshing()
+        viewModel.page = 1
+        viewModel.getData(page: viewModel.page)
     }
 
 }
